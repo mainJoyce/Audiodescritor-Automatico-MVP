@@ -1,0 +1,9 @@
+gradio
+pandas
+yt-dlp
+google-genai
+edge-tts
+opencv-python
+scikit-image
+numpy
+Pillow
