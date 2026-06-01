@@ -1,4 +1,4 @@
-# Audiodescritor Automático
+# Audiodescritor Automático - MVP
 ---
 
 ## Projeto
