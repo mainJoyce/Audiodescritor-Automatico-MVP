@@ -29,9 +29,9 @@ A solução utiliza Inteligência Artificial multimodal para identificar mudanç
 
 ## Suporte ao YouTube
 
-O sistema permite o processamento de transmissões do YouTube.
+O sistema permite o processamento de transmissões ao vivo disponíveis no YouTube.
 
-Ao colar uma URL da live no sistema, a aplicação captura um trecho de 1 minuto do conteúdo, analisa as cenas por meio do Google Gemini e gera audiodescrições automáticas sincronizadas com o vídeo.
+Ao receber uma URL, a aplicação captura automaticamente um trecho de até 1 minuto da transmissão, analisa as cenas utilizando o Google Gemini e gera audiodescrições sincronizadas com o conteúdo capturado.
 
 ---
 
